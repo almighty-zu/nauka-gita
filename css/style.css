@@ -17,20 +17,19 @@ body {
     text-align: center;
     font-size: 40px;
     font-family: 'Abel', sans-serif;
-    color: darkgreen;
+    color: red;
 }
 
 h2 {
     font-size: 35px;
     font-family: 'Abel', sans-serif;
     font-style: italic;
-    color: darkgreen;
+    color: red;
 }
 
 h3 {
     color:red;
     font-family: 'Abel', sans-serif;
-    color: darkgreen;
 }
 
 p {
