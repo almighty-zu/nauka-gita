@@ -33,6 +33,7 @@ h3 {
 }
 
 p {
-    font-size: 10px;
+    font-size: 25px;
     font-family: 'Abel', sans-serif;
+    color: yellow; 
 }
