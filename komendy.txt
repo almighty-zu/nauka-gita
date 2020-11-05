@@ -1,0 +1,3 @@
+html-validate ma wyświetlać listę błędów we wszystkich plikach .html --> html-validate *.html .
+
+autoprefixer-cli ma czytać z pliku style.css i zapisywać wynik do pliku style.prefixed.css --> autoprefixer-cli -o style.prefixed.css css/style.css
