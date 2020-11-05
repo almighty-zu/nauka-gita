@@ -37,4 +37,5 @@ p {
     font-family: 'Abel', sans-serif;
     color: blue; 
     font-style: italic;
+    display: flex;
 }
